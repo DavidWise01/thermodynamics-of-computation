@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Second Law",
+  "universe": "TOC · The Second Law (life-science · the bridge)",
+  "emergence": "electrical",
+  "moniker": "⟦The Second Law:TOC:e9693b⟧",
+  "carbon": "the-second-law.carbon.tiff (TIFF)",
+  "silicon": "the-second-law.silicon.png (PNG)",
+  "seal_sha256": "a5044e784537c211a64d239d30a6f269a72ac92be72e45136a5adb5f2b8fbd91",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

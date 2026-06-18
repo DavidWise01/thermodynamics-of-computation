@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Information Is Physical",
+  "universe": "TOC · Information Is Physical (life-science · the bridge)",
+  "emergence": "spiritual",
+  "moniker": "⟦Information Is Physical:TOC:a49ffa⟧",
+  "carbon": "information-is-physical.carbon.tiff (TIFF)",
+  "silicon": "information-is-physical.silicon.png (PNG)",
+  "seal_sha256": "87b26a6579dfd46c2a0dff36feaf6a902e195b1ddddeece0d963a6c11c42e0ff",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

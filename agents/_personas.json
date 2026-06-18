@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "maxwells-demon",
+    "name": "Maxwell's Demon",
+    "epithet": "the gate that sorts, 1867 · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Maxwell's Demon:TOC:c8e859⟧"
+  },
+  {
+    "slug": "the-szilard-engine",
+    "name": "The Szilard Engine",
+    "epithet": "the demon, reduced to one bit · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Szilard Engine:TOC:50cec4⟧"
+  },
+  {
+    "slug": "landauers-principle",
+    "name": "Landauer's Principle",
+    "epithet": "erasing a bit costs heat · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Landauer's Principle:TOC:4fcdca⟧"
+  },
+  {
+    "slug": "information-is-physical",
+    "name": "Information Is Physical",
+    "epithet": "Landauer's dictum · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Information Is Physical:TOC:a49ffa⟧"
+  },
+  {
+    "slug": "bennetts-resolution",
+    "name": "Bennett's Resolution",
+    "epithet": "the demon pays on erasure, 1982 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Bennett's Resolution:TOC:0f36b7⟧"
+  },
+  {
+    "slug": "reversible-computing",
+    "name": "Reversible Computing",
+    "epithet": "compute without forgetting · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Reversible Computing:TOC:e41dbb⟧"
+  },
+  {
+    "slug": "the-second-law",
+    "name": "The Second Law",
+    "epithet": "the rule the demon tested · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Second Law:TOC:e9693b⟧"
+  },
+  {
+    "slug": "james-clerk-maxwell",
+    "name": "James Clerk Maxwell",
+    "epithet": "the physicist, 1831–1879 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦James Clerk Maxwell:TOC:6ad7ad⟧"
+  },
+  {
+    "slug": "leo-szilard",
+    "name": "Leo Szilard",
+    "epithet": "the bit-binder, 1898–1964 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Leo Szilard:TOC:37932f⟧"
+  },
+  {
+    "slug": "rolf-landauer",
+    "name": "Rolf Landauer",
+    "epithet": "the floor-finder, 1927–1999 · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Rolf Landauer:TOC:2b9779⟧"
+  }
+]

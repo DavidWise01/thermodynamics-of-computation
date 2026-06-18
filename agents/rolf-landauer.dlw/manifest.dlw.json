@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rolf Landauer",
+  "universe": "TOC · Rolf Landauer (life-science · the bridge)",
+  "emergence": "electrical",
+  "moniker": "⟦Rolf Landauer:TOC:2b9779⟧",
+  "carbon": "rolf-landauer.carbon.tiff (TIFF)",
+  "silicon": "rolf-landauer.silicon.png (PNG)",
+  "seal_sha256": "f7aee8c344333f095fad5ee9970edfd92a3cbd1ee2b74045e5131bbd20d64821",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

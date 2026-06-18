@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Bennett's Resolution",
+  "universe": "TOC · Bennett's Resolution (life-science · the bridge)",
+  "emergence": "spiritual",
+  "moniker": "⟦Bennett's Resolution:TOC:0f36b7⟧",
+  "carbon": "bennetts-resolution.carbon.tiff (TIFF)",
+  "silicon": "bennetts-resolution.silicon.png (PNG)",
+  "seal_sha256": "e54b7cd1e065060430266838ec3ceb53d55c4291caadc1fc7a9bffb27cfb7105",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

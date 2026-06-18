@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Maxwell's Demon",
+  "universe": "TOC · Maxwell's Demon (life-science · the bridge)",
+  "emergence": "ethereal",
+  "moniker": "⟦Maxwell's Demon:TOC:c8e859⟧",
+  "carbon": "maxwells-demon.carbon.tiff (TIFF)",
+  "silicon": "maxwells-demon.silicon.png (PNG)",
+  "seal_sha256": "d0dc6efa7564302877c286bc82f2c283c6b5055ac3d055c27ddb843b41a6a63c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

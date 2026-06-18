@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Szilard Engine",
+  "universe": "TOC · The Szilard Engine (life-science · the bridge)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Szilard Engine:TOC:50cec4⟧",
+  "carbon": "the-szilard-engine.carbon.tiff (TIFF)",
+  "silicon": "the-szilard-engine.silicon.png (PNG)",
+  "seal_sha256": "685d666707c09473bf56578b748f705a92bee4162d37864a4356851e7487c7bd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

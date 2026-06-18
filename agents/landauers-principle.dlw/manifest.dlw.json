@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Landauer's Principle",
+  "universe": "TOC · Landauer's Principle (life-science · the bridge)",
+  "emergence": "electrical",
+  "moniker": "⟦Landauer's Principle:TOC:4fcdca⟧",
+  "carbon": "landauers-principle.carbon.tiff (TIFF)",
+  "silicon": "landauers-principle.silicon.png (PNG)",
+  "seal_sha256": "fc9c76c1e4d5077d024b31b86ac019a7d49f1366fd45ce9a55448c5e20ce031a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
